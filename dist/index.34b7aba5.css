@@ -1,0 +1,40 @@
+.wrapper {
+  flex-direction: column;
+  align-items: center;
+  width: 50%;
+  margin: 0 auto;
+  display: flex;
+}
+
+.label {
+  font-size: 20px;
+}
+
+.input {
+  border-radius: 10px;
+  width: 300px;
+  padding: 10px;
+}
+
+.listBoxContainer {
+  border-radius: 10px;
+  width: 320px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  overflow: hidden;
+}
+
+.listBoxItem {
+  color: #fff;
+  background-color: #000;
+  border-bottom: 1px solid #fff;
+  padding: 10px;
+}
+
+.activeItem {
+  color: #000;
+  background-color: #d4cdcd;
+}
+
+/*# sourceMappingURL=index.34b7aba5.css.map */
